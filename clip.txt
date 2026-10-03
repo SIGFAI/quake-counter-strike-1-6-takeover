@@ -1,0 +1,7 @@
+Moments the clip must show (tick only if seen in the preview screenshots):
+[x] 1. Opening: the title "COUNTER-STRIKE 1.6 TAKEOVER" over a sandy dust haze, Terrorists and Counter-Terrorists (new 3D soldier models) fighting each other and the Quake monsters, kill feed lines like "Terrorist [AK-47] Counter-Terrorist".
+[x] 2. Player AK-47 / AWP shots with tracers; a HEADSHOT message, blood and a money bag drop that is picked up (+$300).
+[x] 3. Grenades: "Fire in the hole!" HE grenade kills soldiers and an Ogre; flashbang blinds enemies ("Enemy blinded!").
+[x] 4. The bomb is planted ("The bomb has been planted!"), a red beacon of sparks rises from it and it beeps faster and faster, then blows up ("Terrorists win!"); the second bomb can be shot and defused.
+[x] 5. "COUNTER-TERRORISTS WIN - Round won +$3250" after six kills.
+Weak spots: the bomb body reads like a crate at a distance (the red beacon sells it); the flashbang white-out on the player was not caught on a screenshot; the demo player sometimes faces a wall for a few seconds; soldier skins are noisy at close range.

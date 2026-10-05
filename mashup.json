@@ -3,6 +3,12 @@
   "version": "1.0.0",
   "name": "Counter-Strike 1.6 Takeover",
   "tagline": "Bring Counter-Strike 1.6 into the game in the most visible and funny way. The change shows in the first 30 seconds of play.",
+  "how_to_play": [
+    "Terrorists and Counter-Terrorists replace the map's soldiers in a dusty haze; fight your way through.",
+    "Use the number keys to switch between the AK-47, Desert Eagle, AWP, M249 and grenades; aim for headshots.",
+    "When the Terrorists plant the C4, shoot the bomb to defuse it before it blows, and grab dropped cash.",
+    "Open the console and type: map start"
+  ],
   "kind": "mashup",
   "games": [
     {
@@ -346,8 +352,5 @@
     "id": "quake",
     "status": "draft"
   },
-  "built_at": "2026-10-05T15:24:33.952Z",
-  "notes": [
-    "Copy the mod folder next to Quake's id1 folder (for example quake/cs16) and start Ironwail with: -game cs16. Choose a map from the console, like: map start. Use the number keys to switch between AK-47, Desert Eagle, AWP, M249 and grenades."
-  ]
+  "built_at": "2026-10-05T15:24:33.952Z"
 }
